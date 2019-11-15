@@ -1,3 +1,5 @@
+# It does (time out error) when running on a really long list of numbers
+
 """
 ***Sum of Pairs***
 Given a list of integers and a single sum value, return the first two values (parse from the left please) in order of appearance that add up to form the sum.
@@ -31,7 +33,7 @@ NOTE: There will also be lists tested of lengths upwards of 10,000,000 elements.
 def sum_pairs(ints, s):
     '''
     :param ints: a list of numbers
-    :param s: the sum the user wants to get the pairs for
+    :param s: the sum the user wants to get the pairs, of number, for
     :return: the pairs of elements from (the given list) that sums to be (the sum wanted)
     Time: O(n)
     '''
