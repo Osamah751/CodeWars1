@@ -17,9 +17,25 @@ Example Output
 ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 '''
 
-def openOrSenior(data):
-    pass
 
+def openOrSenior(data):
+    '''
+    This function check weather each member a ("Senior"){older than 55 years old and has greater than 5 handicap.Otherwise, it is ("Open").
+    :param data: a (list-> sub-list -> 2-element(age, handicap)
+    :return: a list, each element in the list is either ("Senior") if the satisfy the requirements, otherwise it is ("Open")
+    Time: O(n)
+    '''
+    output_list = []
+    # Check each sub-list in the data
+    for person in data:
+
+        # if the person have the required to be a ("Senior") otherwise they are ("Open")
+        if (person[0] >= 55) and (person[1] > 7):
+            output_list.append("Senior")
+        else:
+            output_list.append("Open")
+
+    return output_list
 
 
 # Test Case #1: (['Open', 'Senior', 'Open', 'Senior'])
