@@ -22,4 +22,15 @@ You can assume that all inputs are valid integers.
 '''
 
 
+def round_to_next5(n):
+    # Your code here
+    return n
 
+# Test Case #1: (0)
+print(round_to_next5(0))
+
+# Test Case #2:
+print(round_to_next5(1))
+
+# Test Case #3: (0)
+print(round_to_next5(-1))
