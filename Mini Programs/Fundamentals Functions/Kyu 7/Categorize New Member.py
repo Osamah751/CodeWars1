@@ -17,5 +17,13 @@ Example Output
 ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 '''
 
+def openOrSenior(data):
+    pass
 
-#Test Case #1:
+
+
+# Test Case #1: (['Open', 'Senior', 'Open', 'Senior'])
+print(openOrSenior([[45, 12],[55,21],[19, -2],[104, 20]]))
+
+# Test Case #2: (['Open', 'Open', 'Senior', 'Open'])
+print(openOrSenior([[16, 23],[73,1],[56, 20],[1, -1]]))
