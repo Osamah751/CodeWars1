@@ -19,7 +19,7 @@ def stray(arr):
     a function that finds the stray number in a list
     :param arr: a list of identical numbers except one number
     :return: the number only used ones in the list
-    Time: O(1)
+    Complexity: O( n*log(n) )
     '''
     # sort the numbers to make the stray number either at the beginning or the end of the array
     arr.sort()
