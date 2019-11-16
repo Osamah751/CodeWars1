@@ -58,8 +58,8 @@ def sum_pairs(ints, s):
     return sum
 
 
-# Test Case #1:
+# Test Case #1: ([3, 7])
 print(sum_pairs([10, 5, 2, 3, 7, 5], 10))
 
-# Test Case #2:
+# Test Case #2: ([1, 7])
 print(sum_pairs([1, 4, 8, 7, 3, 15], 8))
