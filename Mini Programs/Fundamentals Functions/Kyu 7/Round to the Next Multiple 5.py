@@ -23,14 +23,18 @@ You can assume that all inputs are valid integers.
 
 
 def round_to_next5(n):
-    # Your code here
-    return n
+    '''
+    :param n: an integer
+    :return: the integer given rounded up to the next 5
+    '''
+    return n + (5 - n) % 5
+
 
 # Test Case #1: (0)
 print(round_to_next5(0))
 
-# Test Case #2:
-print(round_to_next5(1))
+# Test Case #2: (5)
+print(round_to_next5(2))
 
 # Test Case #3: (0)
-print(round_to_next5(-1))
+print(round_to_next5(-2))
