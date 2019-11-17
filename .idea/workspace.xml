@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Find The Stray Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Find The Stray Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Sum of all the multiples of 3 or 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Sum of Pairs (Not_Efficient).py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Not_Efficient/Sum of Pairs (Not_Efficient).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7\Not_Efficient" />
       <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7" />
     </key>
   </component>
@@ -126,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7\Sum of Pairs (Not_Efficient).py" />
+      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7\Not_Efficient\Sum of Pairs (Not_Efficient).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573897205542</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Correcting the Time Complexity">
+      <created>1573898834329</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1573898834329</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,7 +281,8 @@
     <MESSAGE value="completed function" />
     <MESSAGE value="add Instructions" />
     <MESSAGE value="Completed Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Function" />
+    <MESSAGE value="Correcting the Time Complexity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correcting the Time Complexity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -282,7 +293,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Sum of Pairs (Not_Efficient).py</url>
+          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Not_Efficient/Sum of Pairs (Not_Efficient).py</url>
           <line>32</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
