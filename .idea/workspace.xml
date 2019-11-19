@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/You're a square!.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Sum of all the multiples of 3 or 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Sum of all the multiples of 3 or 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini Programs/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -52,28 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sum of all the multiples of 3 or 5">
-    <configuration name="Categorize New Member" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeWars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Categorize New Member.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.You're a square!">
     <configuration name="Find The Stray Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,27 +97,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum of Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeWars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7\Not_Efficient\Sum of Pairs (Not_Efficient).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Sum of all the multiples of 3 or 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,13 +118,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="You're a square!" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/You're a square!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.You're a square!" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Sum of all the multiples of 3 or 5" />
         <item itemvalue="Python.Find The Stray Number" />
         <item itemvalue="Python.Round to the Next Multiple 5" />
-        <item itemvalue="Python.Categorize New Member" />
-        <item itemvalue="Python.Sum of Pairs" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573967505074</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="workable function">
+      <created>1573968249311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573968249311</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +298,8 @@
     <MESSAGE value="Completed Function" />
     <MESSAGE value="Correcting the Time Complexity" />
     <MESSAGE value="create (Not_Efficient) folder setting up a new project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create (Not_Efficient) folder setting up a new project" />
+    <MESSAGE value="workable function" />
+    <option name="LAST_COMMIT_MESSAGE" value="workable function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,9 +315,9 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Sum of all the multiples of 3 or 5.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/You're a square!.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
