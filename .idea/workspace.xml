@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/You're a square!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Two to One.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini Programs/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.You're a square!">
+  <component name="RunManager" selected="Python.Directions Reduction">
+    <configuration name="Directions Reduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Directions Reduction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Find The Stray Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,27 +88,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Find The Stray Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Round to the Next Multiple 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeWars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Round to the Next Multiple 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Directions Reduction" />
         <item itemvalue="Python.You're a square!" />
         <item itemvalue="Python.Test" />
         <item itemvalue="Python.Sum of all the multiples of 3 or 5" />
         <item itemvalue="Python.Find The Stray Number" />
-        <item itemvalue="Python.Round to the Next Multiple 5" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573968249311</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Completed Function">
+      <created>1574188688650</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574188688650</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,11 +301,11 @@
     <MESSAGE value="add 3 Test Cases" />
     <MESSAGE value="completed function" />
     <MESSAGE value="add Instructions" />
-    <MESSAGE value="Completed Function" />
     <MESSAGE value="Correcting the Time Complexity" />
     <MESSAGE value="create (Not_Efficient) folder setting up a new project" />
     <MESSAGE value="workable function" />
-    <option name="LAST_COMMIT_MESSAGE" value="workable function" />
+    <MESSAGE value="Completed Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
