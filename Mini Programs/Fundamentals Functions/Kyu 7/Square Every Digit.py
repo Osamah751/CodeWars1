@@ -17,6 +17,7 @@ def square_digits(num):
     This function takes a number and square each digit in it. then print the result
     :param num: (int)Number
     :return: (int)a new number made by squaring each digit in the input
+    Time: O(n)
     '''
     digits = [int(x) for x in str(num)]
 
