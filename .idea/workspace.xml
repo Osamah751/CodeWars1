@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Square Every Digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Break camelCase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String ends with.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +54,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Square Every Digit">
+  <component name="RunManager" selected="Python.Break camelCase">
+    <configuration name="Break camelCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Break camelCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Square Every Digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +89,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Square Every Digit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String Order Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String Order Function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="String ends with" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String ends with.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,6 +162,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Break camelCase" />
+        <item itemvalue="Python.String Order Function" />
+        <item itemvalue="Python.String ends with" />
         <item itemvalue="Python.Square Every Digit" />
         <item itemvalue="Python.Test" />
       </list>
@@ -219,7 +286,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574191387018</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Completed Function">
+      <created>1581555069556</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1581555069556</updated>
+    </task>
+    <task id="LOCAL-00017" summary="adding the time to run the function">
+      <created>1581555127402</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1581555127402</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +327,8 @@
     <MESSAGE value="create (Not_Efficient) folder setting up a new project" />
     <MESSAGE value="workable function" />
     <MESSAGE value="Completed Function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Function" />
+    <MESSAGE value="adding the time to run the function" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the time to run the function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,8 +355,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Square Every Digit.py</url>
-          <line>22</line>
+          <line>23</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String ends with.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String Order Function.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
