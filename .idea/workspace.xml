@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Break camelCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String ends with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Array.diff.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -300,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581555127402</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adding 2 completed functions">
+      <created>1583693413235</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583693413235</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,7 +334,8 @@
     <MESSAGE value="workable function" />
     <MESSAGE value="Completed Function" />
     <MESSAGE value="adding the time to run the function" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding the time to run the function" />
+    <MESSAGE value="Adding 2 completed functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 2 completed functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
