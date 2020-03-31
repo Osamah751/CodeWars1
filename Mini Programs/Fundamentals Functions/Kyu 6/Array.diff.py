@@ -19,6 +19,8 @@ def array_diff(a, b):
     :param a: Array because removing the elements from array B
     :param b: Array containing the elements we need to remove from array A
     :return: array A with no mutual element with array B
+
+    1
     """
     letters_to_remove = []
     numbers_to_remove = list(set(b))

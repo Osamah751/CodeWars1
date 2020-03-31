@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="shortening the function">
+    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="adding a comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" afterDir="false" />
     </list>
@@ -69,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 6\Not complete\Array.diff.py" />
+      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 6\Array.diff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585672386750</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="adding a comment">
+      <created>1585673356467</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585673356467</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +399,8 @@
     <MESSAGE value="putting some comments" />
     <MESSAGE value="fixing the bug" />
     <MESSAGE value="shortening the function" />
-    <option name="LAST_COMMIT_MESSAGE" value="shortening the function" />
+    <MESSAGE value="adding a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding a comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
