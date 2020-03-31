@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Array.diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 5/Not Completed Funcions/Moving Zeros To The End.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Array.diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 5\Not Completed Funcions" />
+      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 6\Not complete" />
       <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7\Not_Efficient" />
       <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7" />
     </key>
@@ -53,7 +56,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Break camelCase">
+  <component name="RunManager" selected="Python.Moving Zeros To The End">
+    <configuration name="Array.diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 6\Not complete\Array.diff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Break camelCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Square Every Digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Moving Zeros To The End" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/Square Every Digit.py" />
+      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 5\Moving Zeros To The End.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,34 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeWars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Moving Zeros To The End" />
+        <item itemvalue="Python.Array.diff" />
         <item itemvalue="Python.Break camelCase" />
         <item itemvalue="Python.String Order Function" />
         <item itemvalue="Python.String ends with" />
-        <item itemvalue="Python.Square Every Digit" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583693413235</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="setting a new Task">
+      <created>1585095809240</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585095809240</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,7 +345,8 @@
     <MESSAGE value="Completed Function" />
     <MESSAGE value="adding the time to run the function" />
     <MESSAGE value="Adding 2 completed functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 2 completed functions" />
+    <MESSAGE value="setting a new Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting a new Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,6 +385,11 @@
           <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String Order Function.py</url>
           <line>11</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 5/Not Completed Funcions/Moving Zeros To The End.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
