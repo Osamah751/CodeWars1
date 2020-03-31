@@ -15,19 +15,7 @@ array_diff([1,2,2,2,3],[2]) == [1,3]
 
 def array_diff(a, b):
     letters_to_remove = []
-
-    # for index in b:
-    #     if index not in letters_to_remove:
-    #         letters_to_remove.append(index)
-    #
-    # for number in a:
-    #     if number in letters_to_remove:
-    #         a.remove(number)
-    #
-    # return a
-
-    numbers_to_remove = set(b)
-    numbers_to_remove = list(numbers_to_remove)
+    numbers_to_remove = list(set(b))
     return list( number for number in a if number not in numbers_to_remove)
 
 
