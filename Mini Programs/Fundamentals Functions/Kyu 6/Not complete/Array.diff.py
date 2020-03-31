@@ -14,6 +14,12 @@ array_diff([1,2,2,2,3],[2]) == [1,3]
 
 
 def array_diff(a, b):
+    """
+    this function remove all the mutual elements that are in array B from array A
+    :param a: Array because removing the elements from array B
+    :param b: Array containing the elements we need to remove from array A
+    :return: array A with no mutual element with array B
+    """
     letters_to_remove = []
     numbers_to_remove = list(set(b))
     return list( number for number in a if number not in numbers_to_remove)

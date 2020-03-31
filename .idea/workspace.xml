@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="" />
+    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="shortening the function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -341,7 +344,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585663929300</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="fixing the bug">
+      <created>1585672345400</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1585672345400</updated>
+    </task>
+    <task id="LOCAL-00025" summary="shortening the function">
+      <created>1585672386750</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585672386750</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,7 +390,9 @@
     <MESSAGE value="setting a new Task" />
     <MESSAGE value="Complete Function" />
     <MESSAGE value="putting some comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="putting some comments" />
+    <MESSAGE value="fixing the bug" />
+    <MESSAGE value="shortening the function" />
+    <option name="LAST_COMMIT_MESSAGE" value="shortening the function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
