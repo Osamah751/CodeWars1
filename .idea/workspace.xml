@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Stop gninnipS My sdroW!.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Stop gninnipS My sdroW!.py" afterDir="false" />
-    </list>
+    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Stop gninnipS My sdroW!">
+  <component name="RunManager" selected="Python.Array.diff">
     <configuration name="Array.diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,9 +161,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Array.diff" />
         <item itemvalue="Python.Stop gninnipS My sdroW!" />
         <item itemvalue="Python.Moving Zeros To The End" />
-        <item itemvalue="Python.Array.diff" />
         <item itemvalue="Python.Break camelCase" />
         <item itemvalue="Python.String Order Function" />
       </list>
@@ -330,7 +327,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585662697989</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Complete Function">
+      <created>1585663811615</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585663811615</updated>
+    </task>
+    <task id="LOCAL-00023" summary="putting some comments">
+      <created>1585663929300</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585663929300</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +371,9 @@
     <MESSAGE value="adding the time to run the function" />
     <MESSAGE value="Adding 2 completed functions" />
     <MESSAGE value="setting a new Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="setting a new Task" />
+    <MESSAGE value="Complete Function" />
+    <MESSAGE value="putting some comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="putting some comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -407,7 +420,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Stop gninnipS My sdroW!.py</url>
-          <line>15</line>
+          <line>17</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>

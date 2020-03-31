@@ -28,7 +28,7 @@ def array_diff(a, b):
 
     numbers_to_remove = set(b)
     numbers_to_remove = list(numbers_to_remove)
-    return ( number for number in a if number not in numbers_to_remove)
+    return list( number for number in a if number not in numbers_to_remove)
 
 
 # Test Case 1: ([2])
