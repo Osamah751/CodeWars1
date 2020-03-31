@@ -9,10 +9,21 @@ Examples:
     spinWords( "This is a test" ) => returns "This is a test"
     spinWords( "This is another test" )=> returns "This is rehtona test"
 """
-
+import random
 
 def spin_words(sentence):
-    pass
+    Answer = []
+    lst = sentence.split(" ")
+    for word in lst:
+        if len(word) >= 5:
+            # to reverse the word
+            word = word[::-1]
+
+            # to shuffle the word
+            # word = ''.join(random.sample(word, len(word)))
+
+        Answer.append(word)
+    return ' '.join(Answer)
 
 
 # Test Case 1:
