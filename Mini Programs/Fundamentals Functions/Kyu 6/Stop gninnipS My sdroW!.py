@@ -2,7 +2,9 @@
 6 kyu
 Stop gninnipS My sdroW!
 
-Write a function that takes in a string of one or more words, and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata). Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
+Write a function that takes in a string of one or more words,
+and returns the same string, but with all five or more letter words reversed (Just like the name of this Kata).
+Strings passed in will consist of only letters and spaces. Spaces will be included only when more than one word is present.
 
 Examples:
     spinWords( "Hey fellow warriors" ) => returns "Hey wollef sroirraw"
@@ -26,14 +28,14 @@ def spin_words(sentence):
     return ' '.join(Answer)
 
 
-# Test Case 1:
+# Test Case 1: ("Hey wollef sroirraw")
 print(spin_words("Hey fellow warriors"))
 
-# Test Case 2:
+# Test Case 2: ("This is a test")
 print(spin_words("This is a test"))
 
-# Test Case 3:
+# Test Case 3: ("This is rehtona test")
 print(spin_words("This is another test"))
 
-# Test Case 4:
+# Test Case 4: ("emocleW")
 print(spin_words("Welcome"))
