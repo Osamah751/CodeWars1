@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="adding a comment">
+    <list default="true" id="65e1f470-c3df-4790-bf48-89f20de9e104" name="Default Changelist" comment="removing a comment">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Duplicate Encoder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 6/Not complete/Array.diff.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +23,28 @@
     <option name="ONTO" value="refs/remotes/origin/master" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="Osamah Sarraj &lt;osamah.sarraj@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Local_Master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -34,17 +53,18 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 4\Not completed" />
+      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 6" />
       <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 5" />
       <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 5\Not Completed Funcions" />
       <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 6\Not complete" />
-      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7\Not_Efficient" />
-      <recent name="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 7" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Array.diff">
+  <component name="RunManager" selected="Python.Range Extraction">
     <configuration name="Array.diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +143,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Range Extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CodeWars" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Osamah\Programming\Python 3\CodeWars\Mini Programs\Fundamentals Functions\Kyu 4\Not completed\Range Extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Stop gninnipS My sdroW!" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,34 +185,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String Order Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CodeWars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mini Programs/Fundamentals Functions/Kyu 7/String Order Function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Range Extraction" />
         <item itemvalue="Python.Array.diff" />
         <item itemvalue="Python.Stop gninnipS My sdroW!" />
         <item itemvalue="Python.Moving Zeros To The End" />
         <item itemvalue="Python.Break camelCase" />
-        <item itemvalue="Python.String Order Function" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +388,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585673356467</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="adding a comment">
+      <created>1585673914018</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585673914018</updated>
+    </task>
+    <task id="LOCAL-00028" summary="removing a comment">
+      <created>1585674136918</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585674136918</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +437,8 @@
     <MESSAGE value="fixing the bug" />
     <MESSAGE value="shortening the function" />
     <MESSAGE value="adding a comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding a comment" />
+    <MESSAGE value="removing a comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing a comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
