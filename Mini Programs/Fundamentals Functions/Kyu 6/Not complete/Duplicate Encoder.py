@@ -14,5 +14,14 @@ Examples
 '''
 
 def duplicate_encode(word):
-    pass
+    duplicates = []
+    answer = []
+    for char in word:
+        if char in duplicates:
+            answer.append(')')
+        else:
+            duplicates.append(char)
+            answer.append('(')
+    answer = ''.join(answer)
+    return (answer)
 
